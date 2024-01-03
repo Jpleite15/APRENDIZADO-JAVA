@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="86fb0bc0-083c-49b8-85f3-7fc0522649c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JAVA - APRENDIZADO/Aula3/exercicioAula3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA - APRENDIZADO/Aula3/exercicioAula3/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +35,10 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "vcs.Git",
     "vue.rearranger.settings.migration": "true"
@@ -55,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1694206327900</updated>
       <workItem from="1694206328000" duration="242000" />
-      <workItem from="1704306314719" duration="189000" />
+      <workItem from="1704306314719" duration="324000" />
     </task>
     <servers />
   </component>
