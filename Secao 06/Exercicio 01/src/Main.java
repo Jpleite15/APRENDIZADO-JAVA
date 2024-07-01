@@ -7,11 +7,7 @@ public class Main {
         while (x != 2002) {
             System.out.println("Senha invalida");
             x = sc.nextInt();
-
-
         }
         System.out.println("Acesso permitido");
-
     }
-
 }
